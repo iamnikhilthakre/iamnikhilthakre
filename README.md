@@ -54,9 +54,9 @@ Git · GitHub · VS Code · Postman
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-thakre/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-thakre-08a061183/)
 - 📧 [Email](mailto:thakrenikhil33@gmail.com)
-- 💻 [GitHub](https://github.com/iamnikhilthakre)
+- 💻 [GitHub](https://github.com/iamnikhilthakre/)
 
 ---
 
